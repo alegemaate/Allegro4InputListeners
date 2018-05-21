@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1526689574 source:c:\users\allan\documents\games indev\allegro4inputlisteners\src\joysticklistener.cpp
+
+1526868632 source:c:\users\allan\documents\games indev\allegro4inputlisteners\src\keylistener.cpp
+	"keyListener.h"
+	<allegro.h>
+
+1526869342 source:c:\users\allan\documents\games indev\allegro4inputlisteners\src\mouselistener.cpp
+	"mouseListener.h"
+
+1526690317 c:\users\allan\documents\games indev\allegro4inputlisteners\include\keylistener.h
+
+1526869344 c:\users\allan\documents\games indev\allegro4inputlisteners\include\mouselistener.h
+	<iostream>
+	<allegro.h>
+
+1526869101 source:c:\users\allan\documents\games indev\allegro4inputlisteners\src\main.cpp
+	<allegro.h>
+	<stdio.h>
+	"keyListener.h"
+	"mouseListener.h"
+
