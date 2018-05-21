@@ -1,6 +1,6 @@
-.o
-.depend
-.layout
+*.o
+*.depend
+*.layout
 
 # Windows thumbnail cache files
 Thumbs.db
